@@ -2,7 +2,7 @@
 theme: ./
 ---
 
-# Slidev Theme Starter
+# Spezi Slidev Theme
 
 Presentation slides for developers
 
