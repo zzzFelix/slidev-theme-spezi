@@ -24,8 +24,8 @@
   "devDependencies": {
     "@slidev/cli": "^0.40.2"
   },
-  "//": "Learn more: https://sli.dev/themes/write-a-theme.html",
   "slidev": {
+    "aspectRatio": "16/9",
     "colorSchema": "both",
     "highlighter": "all",
     "defaults": {
