@@ -15,7 +15,7 @@ h1 {
   }
 
   h1 + p {
-    @apply -mt-2 opacity-100 mb-4;
+    @apply text-4xl;
   }
 
   p + h2, ul + h2, table + h2 {
