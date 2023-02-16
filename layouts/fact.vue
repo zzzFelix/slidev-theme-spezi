@@ -1,5 +1,5 @@
 <template>
-  <div class="slidev-layout intro">
+  <div class="slidev-layout fact">
     <div class="my-auto">
       <slot />
     </div>
@@ -7,7 +7,7 @@
 </template>
 
 <style>
-.slidev-layout.intro {
+.slidev-layout.fact {
   @apply h-full grid;
   text-align: center;
 
@@ -24,4 +24,6 @@
   table+h2 {
     @apply mt-10;
   }
-}</style>
+}
+</style>
+  
