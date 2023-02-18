@@ -36,12 +36,14 @@ layout: fact
 
 # Hello 👋
 
-<v-clicks>
 My name is Felix Hoffmann
+
+<v-clicks>
 
 I'm a software engineer @iteratec
 
 and I like trains 🚂
+
 </v-clicks>
 
 ---
@@ -87,10 +89,13 @@ layout: fact
 - Users with limited motor skills
 
 ---
-layout: two-cols
+layout: two-cols-header
 ---
 
+::header::
 # Semantic HTML
+
+::left::
 
 ```html
 <nav>
@@ -112,7 +117,6 @@ layout: two-cols
 ::right::
 
 <v-click>
-<h1> </h1>
 ```html
 <div>
   <div>
@@ -145,7 +149,7 @@ layout: fact
 # Contrast
 
 ---
-layout: image-right
+layout: image-left
 image: 'bendy-straw.webp'
 ---
 
@@ -208,12 +212,15 @@ layout: center
      style="height: 28rem;" />
 
 ---
-layout: two-cols
+layout: two-cols-header
 ---
 
-::default::
+::header::
 
 # Thank you
+
+::left::
+
 <br>
 <small>@felixmhoffmann</small>
 

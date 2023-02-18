@@ -1,6 +1,6 @@
 <template>
   <div class="slidev-layout fact">
-    <div class="my-auto">
+    <div>
       <slot />
     </div>
   </div>
@@ -10,19 +10,14 @@
 .slidev-layout.fact {
   @apply h-full grid;
   text-align: center;
+  align-items: center;
 
   h1 {
     @apply text-6xl leading-20;
   }
 
-  h1+p {
-    @apply text-4xl;
-  }
-
-  p+h2,
-  ul+h2,
-  table+h2 {
-    @apply mt-10;
+  h2 {
+    @apply mb-5;
   }
 }
 </style>

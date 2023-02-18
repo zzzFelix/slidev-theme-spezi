@@ -12,6 +12,14 @@
 
 .slidev-layout {
   padding: 3.5rem 4.5rem;
-  font-size: 1.3rem;
-  line-height: 150%;
+  font-size: 1.4rem;
+  line-height: 170%;
+}
+
+.slidev-layout p {
+  line-height: 170%;
+}
+
+.slidev-layout li {
+  line-height: 220%;
 }
