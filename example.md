@@ -53,19 +53,19 @@ layout: center
 <div>
 
 ### Elevators
-<img src="elevator.webp" alt="Elevator">
+<img src="/elevator.webp" alt="Elevator">
 </div>
 
 <div v-click>
 
 ### Step-free access
-<img src="level-access.webp" alt="Step-free access onto a train">
+<img src="/level-access.webp" alt="Step-free access onto a train">
 </div>
 
 <div v-click>
 
 ### Automatic doors
-<img src="train-doors.webp" alt="A train with heavy, manual doors.">
+<img src="/train-doors.webp" alt="A train with heavy, manual doors.">
 </div>
 
 </div>
@@ -177,7 +177,7 @@ layout: fact
 - Android users love to customize EVERYTHING
 - 20% of teenage users have activated zoom mode
 
-![Tweet by Nikita Bier: "Startups usually ignore accessibility—since they're just trying to prove that a product works. But when testing Gas, we started seeing screenshots on Snapchat that looked off. We found that over 20% of teens have Zoom-mode enabled, so we prioritized it & saw our K-factor jump 0.1"](tweet.webp)
+![Tweet by Nikita Bier: "Startups usually ignore accessibility—since they're just trying to prove that a product works. But when testing Gas, we started seeing screenshots on Snapchat that looked off. We found that over 20% of teens have Zoom-mode enabled, so we prioritized it & saw our K-factor jump 0.1"](/tweet.webp)
 
 ---
 layout: fact
@@ -195,7 +195,7 @@ layout: fact
 layout: center
 ---
 
-<img src="surprised-pikachu.png"
+<img src="/surprised-pikachu.png"
      alt="Surprised Pikachu face meme"
      style="height: 15rem;" />
 
@@ -203,7 +203,7 @@ layout: center
 layout: center
 ---
 
-<img src="nytimes.webp"
+<img src="/nytimes.webp"
      alt="A New York Times article. Title: M.T.A. Vows to Make Subways 95% Accessible. It Will Take 33 Years."
      style="height: 28rem;" />
 
@@ -219,7 +219,7 @@ layout: two-cols
 
 ::right::
 
-<img src="qrcode.png" alt="QR code with a link to the slides" style="height: 15rem;">
+<img src="/qrcode.png" alt="QR code with a link to the slides" style="height: 15rem;">
 <br>
 Slides
 
