@@ -13,7 +13,7 @@
   align-items: center;
 
   h1 {
-    @apply text-6xl leading-20;
+    @apply text-5xl leading-20;
   }
 
   h2 {

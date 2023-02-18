@@ -175,14 +175,12 @@ layout: fact
 # Enough time
 
 ---
+layout: center
+---
 
 # Many users use a11y features
 
-- Android users love to customize EVERYTHING
-- 20% of teenage users have activated zoom mode
-
-![Tweet by Nikita Bier: "Startups usually ignore accessibility—since they're just trying to prove that a product works. But when testing Gas, we started seeing screenshots on Snapchat that looked off. We found that over 20% of teens have Zoom-mode enabled, so we prioritized it & saw our K-factor jump 0.1"](/tweet.webp)
-
+<img src="/tweet.webp" alt="Tweet by Nikita Bier: Startups usually ignore accessibility—since they're just trying to prove that a product works. But when testing Gas, we started seeing screenshots on Snapchat that looked off. We found that over 20% of teens have Zoom-mode enabled, so we prioritized it & saw our K-factor jump 0.1" style="height: 16rem;"  >
 ---
 layout: fact
 ---
@@ -221,12 +219,17 @@ layout: two-cols-header
 
 ::left::
 
-<br>
+<div class="h-full grid items-end">
 <small>@felixmhoffmann</small>
+</div>
 
 ::right::
 
+<div class="h-full grid items-end justify-end">
+<div>
+<p>Slides</p>
 <img src="/qrcode.png" alt="QR code with a link to the slides" style="height: 15rem;">
-<br>
-Slides
+</div>
+</div>
+
 
