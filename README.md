@@ -10,9 +10,11 @@ A (...) theme for [Slidev](https://github.com/slidevjs/slidev).
 
 ![Example slide: fact layout](https://raw.githubusercontent.com/zzzFelix/slidev-theme-spezi/main/example-slides/003.png)
 
-![Example slide: two-cols-header layout](https://raw.githubusercontent.com/zzzFelix/slidev-theme-spezi/main/example-slides/004.png)
+![Example slide: two-cols-header quote](https://raw.githubusercontent.com/zzzFelix/slidev-theme-spezi/main/example-slides/004.png)
 
-![Example slide: image-right layout](https://raw.githubusercontent.com/zzzFelix/slidev-theme-spezi/main/example-slides/005.png)
+![Example slide: two-cols-header layout](https://raw.githubusercontent.com/zzzFelix/slidev-theme-spezi/main/example-slides/005.png)
+
+![Example slide: image-right layout](https://raw.githubusercontent.com/zzzFelix/slidev-theme-spezi/main/example-slides/006.png)
 
 ## Install
 
