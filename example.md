@@ -23,61 +23,13 @@ drawings:
 transition: slide-left
 # use UnoCSS
 css: unocss
+
+colorSchema: dark
 ---
 
 # Accessibility for All
 
 ## The Benefits of Inclusive Design
-<br><br>
-<small>@felixmhoffmann</small>
----
-layout: fact
----
-
-# Hello 👋
-
-My name is Felix Hoffmann
-
-<v-clicks>
-
-I'm a software engineer @iteratec
-
-and I like trains 🚂
-
-</v-clicks>
-
----
-layout: center
----
-
-<div grid="~ cols-3 gap-8">
-
-<div>
-
-### Elevators
-<img src="/elevator.webp" alt="Elevator">
-</div>
-
-<div v-click>
-
-### Step-free access
-<img src="/level-access.webp" alt="Step-free access onto a train">
-</div>
-
-<div v-click>
-
-### Automatic doors
-<img src="/train-doors.webp" alt="A train with heavy, manual doors.">
-</div>
-
-</div>
-
----
-layout: fact
----
-
-# 1.6 billion
-## 1 in 6 people experience significant disability
 
 ---
 
@@ -87,6 +39,13 @@ layout: fact
 - Users with low vision
 - Users with dyslexia
 - Users with limited motor skills
+
+---
+layout: fact
+---
+
+# 1.6 billion
+## 1 in 6 people experience significant disability
 
 ---
 layout: two-cols-header
@@ -136,100 +95,10 @@ layout: two-cols-header
 ```
 </v-click>
 
----
-layout: fact
----
-
-# Structure
 
 ---
-layout: fact
----
-
-# Contrast
-
----
-layout: image-left
+layout: image-right
 image: 'bendy-straw.webp'
 ---
 
 # Joseph Friedman and the bendy-straw
-
----
-
-# Captions
-
-- Eating chips
-- Learning a language
-
----
-layout: fact
----
-
-# Keyboard navigation
-
----
-layout: fact
----
-
-# Enough time
-
----
-layout: center
----
-
-# Many users use a11y features
-
-<img src="/tweet.webp" alt="Tweet by Nikita Bier: Startups usually ignore accessibility—since they're just trying to prove that a product works. But when testing Gas, we started seeing screenshots on Snapchat that looked off. We found that over 20% of teens have Zoom-mode enabled, so we prioritized it & saw our K-factor jump 0.1" style="height: 16rem;"  >
----
-layout: fact
----
-
-# Search engine optimization
----
-
-# Legal
-
-- Austria has a law
-- EU will have a law in 2025
-- Corporations in 2025: surprised pikachu face
----
-layout: center
----
-
-<img src="/surprised-pikachu.png"
-     alt="Surprised Pikachu face meme"
-     style="height: 15rem;" />
-
----
-layout: center
----
-
-<img src="/nytimes.webp"
-     alt="A New York Times article. Title: M.T.A. Vows to Make Subways 95% Accessible. It Will Take 33 Years."
-     style="height: 28rem;" />
-
----
-layout: two-cols-header
----
-
-::header::
-
-# Thank you
-
-::left::
-
-<div class="h-full grid items-end">
-<small>@felixmhoffmann</small>
-</div>
-
-::right::
-
-<div class="h-full grid items-end justify-end">
-<div>
-<p>Slides</p>
-<img src="/qrcode.png" alt="QR code with a link to the slides" style="height: 15rem;">
-</div>
-</div>
-
-

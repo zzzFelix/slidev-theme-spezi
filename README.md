@@ -4,20 +4,15 @@
 
 A (...) theme for [Slidev](https://github.com/slidevjs/slidev).
 
-<!--
-  Learn more about how to write a theme:
-  https://sli.dev/themes/write-a-theme.html
---->
+![Example slide: cover layout](/example-slides/001.png)
 
-<!--
-  run `npm run dev` to check out the slides for more details of how to start writing a theme
--->
+![Example slide: default layout](/example-slides/002.png)
 
-<!--
-  Put some screenshots here to demonstrate your theme
+![Example slide: fact layout](/example-slides/003.png)
 
-  Live demo: [...]
--->
+![Example slide: two-cols-header layout](/example-slides/004.png)
+
+![Example slide: image-right layout](/example-slides/005.png)
 
 ## Install
 
